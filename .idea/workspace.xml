@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PPMToolWork" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -82,6 +82,7 @@
       <workItem from="1575377243887" duration="9359000" />
       <workItem from="1575545586144" duration="4932000" />
       <workItem from="1575565054532" duration="9132000" />
+      <workItem from="1578468410963" duration="901000" />
     </task>
     <servers />
   </component>
